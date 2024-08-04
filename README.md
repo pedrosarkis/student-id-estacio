@@ -1,8 +1,11 @@
-# React + Vite
+Clone Estácio Student ID.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+That way I can pay half-price at the movie theater when I go to see Deadpool vs. Wolverine for the fourth time.
 
-Currently, two official plugins are available:
+The only view that matters is the mobile one, as that is what I need to show at the movie theater (obviously).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/51557a59-9748-445d-83d3-498d9d3487e1)
+
+![image](https://github.com/user-attachments/assets/2f28b82f-e999-4a39-8c5d-f7b0ed82628d)
+
+![image](https://github.com/user-attachments/assets/bb66b1ec-d9d0-49ef-82ef-b331356c35d4)
