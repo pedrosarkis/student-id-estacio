@@ -17,7 +17,7 @@ const EstacioProfilePage = () => {
         <div className="flex flex-col items-center mt-4">
           <div className="relative">
             <div className="w-20 h-20 bg-black rounded-full flex items-center justify-center text-2xl font-bold">
-              MC
+              PV
             </div>
             <div className="absolute bottom-0 right-0 bg-white rounded-full p-1">
               <Camera size={20} className="text-black" />
