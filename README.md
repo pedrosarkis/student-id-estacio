@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3eac71ca-6f13-4445-80e9-aa2c5978cbda)A clone of the student ID card from Estácio University. This way, I can get half-price tickets at the cinema.
+A clone of the student ID card from Estácio University. This way, I can get half-price tickets at the cinema.
 
 The only view that matters is the mobile one, since that's what I need to show when I go to the cinema (obviously).
 
