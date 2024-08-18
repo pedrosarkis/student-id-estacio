@@ -1,8 +1,4 @@
-# React + Vite
+A clone of the student ID card from Estácio University. This way, I can get half-price tickets at the cinema.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The only view that matters is the mobile one, since that's what I need to show when I go to the cinema (obviously).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
